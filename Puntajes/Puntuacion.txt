@@ -34,3 +34,10 @@ Su desplazamiento en X es de: 554.2562584220401
 Su desplazamiento en Y es de: 6.40000000000001
 Su tiempo de Vuelo es de:8.163265306122447
 Tiro realizado Correctamente su ecuacion es: X= (80.0^2*sen*30.0)/9.8
+----------------
+JUGADOR: 
+Impacto: Zona Red
+Su desplazamiento en X es de: 690.2999002641532
+Su desplazamiento en Y es de: 23.901587350017714
+Su tiempo de Vuelo es de:10.916782293721669
+Tiro realizado Correctamente su ecuacion es: X= (85.0^2*sen*39.0)/9.8
