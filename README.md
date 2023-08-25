@@ -13,12 +13,12 @@ Este repositorio un sistema que hace la simlación tipo juego de un cañon que s
 ### Interfaz de Control
 
 ![Ruta más Corta](https://github.com/jhonsalazar01/Proyecto_ProgramacionII_/blob/main/Screen/IMG_002.png)
-- Descripción: Interfaz de interacción con la aplicaion donde se permite el control del cañon con los slider.
+- Descripción: Interfaz de interacción con la aplicación donde se permite el control del cañon con los slider.
 
 ### Visualización de la simulación en ejecucion
 
 ![Ruta más Corta](https://github.com/jhonsalazar01/Proyecto_ProgramacionII_/blob/main/Screen/IMG_002.png)
-- Descripción: Interfaz que muestra la visualización del grafo después de eliminar el nodo Sogamoso y sus conexiones.
+- Descripción: Interfaz que muestra la visualización del juego.
 
 
 
