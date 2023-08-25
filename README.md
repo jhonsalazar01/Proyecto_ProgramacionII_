@@ -1,7 +1,7 @@
 # :boom: Proyecto Cañion :boom: 
 
 
-Este repositorio un sistema que hace la simlación tipo juego de un cañon que se puede controlar la velocidad del proyectil junto con el angulo del mismo
+Este repositorio un sistema que hace la simluación tipo juego de un cañon que se puede controlar la velocidad del proyectil junto con el angulo del mismo
 
 ## :camera: CAPTURAS DE PANTALLA :camera:
 
