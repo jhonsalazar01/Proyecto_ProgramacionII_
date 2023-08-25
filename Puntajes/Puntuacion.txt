@@ -1,0 +1,36 @@
+----------------
+JUGADOR: JS001
+Impacto: Zona Red
+Su desplazamiento en X es de: 693.686348431334
+Su desplazamiento en Y es de: 3.599999999999888
+Su tiempo de Vuelo es de:9.081632653061222
+Tiro realizado Correctamente su ecuacion es: X= (89.0^2*sen*30.0)/9.8
+----------------
+JUGADOR: JS001
+----------------
+JUGADOR: SD
+Impacto: Zona Green
+Su desplazamiento en X es de: 637.3946971853471
+Su desplazamiento en Y es de: -46.73599999999999
+Su tiempo de Vuelo es de:8.163265306122447
+Tiro realizado Correctamente su ecuacion es: X= (80.0^2*sen*30.0)/9.8
+Impacto: Zona Green
+Su desplazamiento en X es de: 637.3946971853471
+Su desplazamiento en Y es de: -46.73599999999999
+Su tiempo de Vuelo es de:8.163265306122447
+Tiro realizado Correctamente su ecuacion es: X= (80.0^2*sen*30.0)/9.8
+Impacto: Zona Green
+Su desplazamiento en X es de: 637.3946971853471
+Su desplazamiento en Y es de: -46.73599999999999
+Su tiempo de Vuelo es de:8.163265306122447
+Tiro realizado Correctamente su ecuacion es: X= (80.0^2*sen*30.0)/9.8
+Impacto: Zona Red
+Su desplazamiento en X es de: 429.54860027708094
+Su desplazamiento en Y es de: 59.64399999999996
+Su tiempo de Vuelo es de:8.163265306122447
+Tiro realizado Correctamente su ecuacion es: X= (80.0^2*sen*30.0)/9.8
+Impacto: Zona Red
+Su desplazamiento en X es de: 554.2562584220401
+Su desplazamiento en Y es de: 6.40000000000001
+Su tiempo de Vuelo es de:8.163265306122447
+Tiro realizado Correctamente su ecuacion es: X= (80.0^2*sen*30.0)/9.8

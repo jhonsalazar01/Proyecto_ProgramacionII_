@@ -1,0 +1,205 @@
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 751.0071305101549
+Su desplazamiento en Y es de: 67.47035933244365
+Su tiempo de Vuelo es de:10.405871309407216
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 659.8902464455215
+Su desplazamiento en Y es de: 29.87181196950505
+Su tiempo de Vuelo es de:9.35477319734588
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 701.3939745250154
+Su desplazamiento en Y es de: -0.8190000000001127
+Su tiempo de Vuelo es de:9.081632653061222
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 699.3155135559335
+Su desplazamiento en Y es de: 49.72499999999982
+Su tiempo de Vuelo es de:9.693877551020407
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 695.2018928879575
+Su desplazamiento en Y es de: 51.502749999999814
+Su tiempo de Vuelo es de:9.693877551020407
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 691.9542976237683
+Su desplazamiento en Y es de: 45.474999999999824
+Su tiempo de Vuelo es de:9.591836734693876
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 683.8136588281945
+Su desplazamiento en Y es de: 49.05599999999982
+Su tiempo de Vuelo es de:9.591836734693876
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 686.9746515520053
+Su desplazamiento en Y es de: 54.98474999999981
+Su tiempo de Vuelo es de:9.693877551020407
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 685.8921197972734
+Su desplazamiento en Y es de: 62.49374999999976
+Su tiempo de Vuelo es de:9.795918367346937
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 688.8366061701414
+Su desplazamiento en Y es de: 68.22399999999975
+Su tiempo de Vuelo es de:9.897959183673468
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 689.5727277633581
+Su desplazamiento en Y es de: 22.96874999999986
+Su tiempo de Vuelo es de:9.285714285714283
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 781.761131996211
+Su desplazamiento en Y es de: 67.56974999999966
+Su tiempo de Vuelo es de:10.40816326530612
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 690.1789455460089
+Su desplazamiento en Y es de: 80.94274999999972
+Su tiempo de Vuelo es de:10.102040816326529
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 688.4901960086304
+Su desplazamiento en Y es de: 87.8077499999997
+Su tiempo de Vuelo es de:10.20408163265306
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 690.1789455460089
+Su desplazamiento en Y es de: 80.94274999999972
+Su tiempo de Vuelo es de:10.102040816326529
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 704.1219545469379
+Su desplazamiento en Y es de: 88.99274999999969
+Su tiempo de Vuelo es de:10.30612244897959
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 688.4901960086304
+Su desplazamiento en Y es de: 87.8077499999997
+Su tiempo de Vuelo es de:10.20408163265306
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 688.4901960086304
+Su desplazamiento en Y es de: 87.8077499999997
+Su tiempo de Vuelo es de:10.20408163265306
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 686.8447477414379
+Su desplazamiento en Y es de: 106.02899999999968
+Su tiempo de Vuelo es de:10.51020408163265
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 686.6282413904922
+Su desplazamiento en Y es de: 94.47474999999969
+Su tiempo de Vuelo es de:10.30612244897959
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 689.9191379248745
+Su desplazamiento en Y es de: 154.7827499999995
+Su tiempo de Vuelo es de:11.530612244897958
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 724.473551535873
+Su desplazamiento en Y es de: 68.40274999999973
+Su tiempo de Vuelo es de:10.102040816326529
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 787.2170920400548
+Su desplazamiento en Y es de: 57.59999999999968
+Su tiempo de Vuelo es de:10.30612244897959
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 766.4324823492302
+Su desplazamiento en Y es de: 58.7197499999997
+Su tiempo de Vuelo es de:10.20408163265306
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 755.2607546404073
+Su desplazamiento en Y es de: 77.84774999999965
+Su tiempo de Vuelo es de:10.40816326530612
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 721.6156677033836
+Su desplazamiento en Y es de: 83.1187499999997
+Su tiempo de Vuelo es de:10.30612244897959
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 779.0764532444782
+Su desplazamiento en Y es de: 83.16974999999964
+Su tiempo de Vuelo es de:10.612244897959181
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 742.0105659625054
+Su desplazamiento en Y es de: 82.65599999999965
+Su tiempo de Vuelo es de:10.40816326530612
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 779.0764532444782
+Su desplazamiento en Y es de: 83.16974999999964
+Su tiempo de Vuelo es de:10.612244897959181
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 779.0764532444782
+Su desplazamiento en Y es de: 83.16974999999964
+Su tiempo de Vuelo es de:10.612244897959181
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 779.0764532444782
+Su desplazamiento en Y es de: 83.16974999999964
+Su tiempo de Vuelo es de:10.612244897959181
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 790.17967615224
+Su desplazamiento en Y es de: 82.28559935583314
+Su tiempo de Vuelo es de:10.82631055423175
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 779.0764532444782
+Su desplazamiento en Y es de: 83.16974999999964
+Su tiempo de Vuelo es de:10.612244897959181
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 790.17967615224
+Su desplazamiento en Y es de: 82.28559935583314
+Su tiempo de Vuelo es de:10.82631055423175
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 795.8083334331877
+Su desplazamiento en Y es de: 82.54023755643907
+Su tiempo de Vuelo es de:11.030972439140182
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 688.9232087105217
+Su desplazamiento en Y es de: -21.50625000000004
+Su tiempo de Vuelo es de:8.77551020408163
+---------------------
+Impacto: Zona Orange
+Su desplazamiento en X es de: 674.0275717654292
+Su desplazamiento en Y es de: -12.172250000000037
+Su tiempo de Vuelo es de:8.77551020408163
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 689.7026315739282
+Su desplazamiento en Y es de: -3.1222500000001046
+Su tiempo de Vuelo es de:8.979591836734691
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 689.5727277633581
+Su desplazamiento en Y es de: 22.96874999999986
+Su tiempo de Vuelo es de:9.285714285714283
+---------------------
+Impacto: Zona Red
+Su desplazamiento en X es de: 689.8325353844932
+Su desplazamiento en Y es de: 5.772749999999888
+Su tiempo de Vuelo es de:9.081632653061222
+---------------------
+Impacto: Zona Orange
+Su desplazamiento en X es de: 661.6434084913117
+Su desplazamiento en Y es de: -64.89225
+Su tiempo de Vuelo es de:8.163265306122447
